@@ -1,0 +1,5 @@
+apps/jurisdiction/irregular_states/alaska_dissolved.geojson
+Alaska
+RegName
+FALSE
+# Add more data here in format as above to import data
